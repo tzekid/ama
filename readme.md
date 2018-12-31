@@ -28,10 +28,3 @@ If you have any questions that you want to ask me, [please ask](../../issues/new
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-## Favorite AMA's
-
-Some other AMA's I loved.
-
-- [Sindre Sorhus](https://github.com/sindresorhus/ama#readme) - Awesome dev. He also popularized this whole GitHub AMA thing.
-- [Artem Sapegin](https://github.com/sapegin/ama#readme) - Does awesome front end things.
-- [Kent C. Dodds](https://github.com/kentcdodds/ama#readme) - Does awesome React things.
